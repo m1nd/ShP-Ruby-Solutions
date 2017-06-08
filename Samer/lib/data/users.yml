@@ -1,0 +1,38 @@
+john:
+  'trance': 5
+  'ambient': 4
+  'chillout': 4
+  'rock': 3
+  'pop': 1
+  'heavy-metal': 1
+
+jane:
+  'trance': 1
+  'ambient': 2
+  'chillout': 3
+  'ballad': 4
+  'pop': 5
+
+jake:
+  'rock': 5
+  'heavy-metal': 4
+  'pop': 1
+  'ballad': 2
+  'trance': 1
+
+jasmine:
+  'pop': 5
+  'ballad': 4
+  'heavy-metal': 1
+  'rock': 2
+  'trance': 1
+  'ambient': 2
+
+johanna:
+  'ambient': 5
+  'ballad': 3
+  'chillout': 4
+  'pop': 2
+  'rock': 2
+  'heavy-metal': 0
+
